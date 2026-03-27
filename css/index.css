@@ -9,4 +9,8 @@
     width: 100%;
     height: 500px;
     background-color: rgb(174, 0, 255);
+.block_5pc{
+    width: 600px;
+    height: 600px;
+    background-color: brown;
 }
